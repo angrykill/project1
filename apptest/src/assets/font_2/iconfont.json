@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14229965",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "14229966",
+      "name": "分类",
+      "font_class": "fenlei",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "14229967",
+      "name": "母婴",
+      "font_class": "muyingleimu",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "14229969",
+      "name": "美妆个护",
+      "font_class": "meizhuanggehu",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "14229971",
+      "name": "宠食",
+      "font_class": "chongshi",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "14229979",
+      "name": "营养保健",
+      "font_class": "yingyangbaojian",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "14229987",
+      "name": "家居生活",
+      "font_class": "jiajushenghuo",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "14229993",
+      "name": "美食",
+      "font_class": "meishi",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    }
+  ]
+}
